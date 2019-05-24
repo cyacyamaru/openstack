@@ -1,0 +1,10 @@
+parameter_defaults:
+   key_name: <key_name>
+   instance_type: <flavor name>
+   image_id: <image name>
+   volume_size: <number(GB)>
+   floating_network_id: <external_network_id>
+   availability_zone_1: <az1 name>
+   availability_zone_2: <az2 name>
+   db_root_password: <pass>
+   dns_nameserver: <dns server address>
